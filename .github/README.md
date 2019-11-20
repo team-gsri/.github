@@ -6,7 +6,7 @@ This project is a special project. It only serves as a versioning project for [o
 
 ## Rules and standards
 
-The follwing documents provide additional information on rules and standards applying to this project :
+The following documents provide additional information on rules and standards applying to this project :
 
 *   [GSRI code of conduct](./CODE_OF_CONDUCT.md)
 *   [Contributing to this project](./CONTRIBUTING.md)

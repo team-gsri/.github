@@ -17,7 +17,14 @@ There are two ways of contributing to our projects :
 
 ## Occasional contribution to the source code
 
-*We are in the process of writing this documentation*
+**Note:** *this procedure is for non-GSRI occasional contributors. As such you are not granted write access to our repository, but you still may provide pull request from forked repositories.*
+
+### Fork the repository
+### Clone the repository
+### Modify the sources
+### Commit and Push your modifications
+### Keeping repositories synced
+### Open a pull request to upstream
 
 ## Regular contribution to the source code
 

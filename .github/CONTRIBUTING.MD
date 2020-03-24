@@ -35,9 +35,31 @@ Once git client installed, go to your forked project repository on github.com, a
 
 You can now work on the source code with your favorite editor. If you don't have one, we suggest you use [Microsoft Visual Studio Code](https://code.visualstudio.com/), which integrates well with Github Dekstop. If you are modifying a mission, please follow guidelines below on *How to contribute to Arma 3 missions*.
 
-### Commit and Push your modifications
+Git has three different features regarding changes tracking :
+
+* `git stage` means you want to consider the current version of a given file *ready to commit*. It is a convenient way to add or remove changes from your current commit.
+
+* `git commit` means your *staged* modifications are stored **locally**. Every commit is associated to your identity and you can add a small description of what you changed, and why. If you did not stage anything, git will stage all changes and commit them.
+
+* `git push` will send your *committed* modifications to github. All modification stay local until you git push. Other users can then access you modifications from their repository. You can also obtain code *pushed* by other people by `fetch`ing from github.
+
 ### Keeping repositories synced
+
+You should frequently ensure you're not working on an outdated version of the code base. Please ensure your branch has no *behind* commits relative to our master branch. If your branch is not up-to-date with upstream/master, opening a pull request will be denied by our staff.
+
+If you need to update, you should sync changes from our repository to yours. this operation is called *integration*. When integrating, conficts may happen, for instance if you modified an entity but it was deleted from upstream by another developper.
+
+Conflict resolutions should preferably be done on your currently working branch, as it makes it easier to test wether the integration process did not break anything. Once you're satisfied with the merge, check your version of the code still works OK before opening the pull request. This technique is called *ping-pong merging*.
+
 ### Open a pull request to upstream
+
+Once you're satisfied with your work, and you want it to go to the official version, you can open a pull request to merge your changes *upstream*. 
+
+Open the pull request by selecting `Branch` / `Create pull request` in Github Dekstop. This will open your browser with a form to fill in. Ensure the source branch is the one you have been working on, and the destination is the master branch of our repository. Once completed, click `Open pull request`.
+
+ **Note: All PR to other branches will be denied by our staff.**
+
+GSRI project administrators will the review your code before merging to production. Depending on the project type, tests and other operations may happen to ensure your code does not break anything. If anything goes wrong or we spot somthing that must be modified, you can commit fixes to your current working branch, this will add changes to the pull request automatically.
 
 ## Regular contribution to the source code
 

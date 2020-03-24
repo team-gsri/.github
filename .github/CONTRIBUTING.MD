@@ -63,4 +63,28 @@ GSRI project administrators will the review your code before merging to producti
 
 ## Regular contribution to the source code
 
-*We are in the process of writing this documentation*
+**Note:** This procedure is for GSRI members or well known regular contributors. Such people are allowed to contribute directly on the repository to prevent fork proliferation. If you are not allowed to contribute directly to the repository, see instructions in the *occasional contribution to the source code* section below.
+
+### Obtain write access to the repository
+
+Your first step in order to contribute directly is to obtain write access to the repository. Ask on Discord and we will consider adding you write access.
+
+### Clone the repository
+
+If you are a regular contributor, you may contribute directly on our repository. you do not need to fork the repository and you can clone the gsri directory directly.
+
+### Create a new branch
+
+**Note: This step is mandatory.** Failing to do so will make your modifications on the master branch. You will be allowed to commit locally, but you will be denied pushing to github.
+
+In order to create a new branch, select `Branch` / `New branch ...` in the menu. Github Desktop will ask a branch name. Enter anything you want, such as your nickname or the feature you're planning to implement. If in doubt, ask us. Ensure the source branch is `master`. Once created, publish the branch to github by clicking on the button in the top bar of Github Desktop.
+
+Other operations are similar to above procedure
+
+### Keeping your branch up-to-date with master
+
+You should frequently ensure you're not working on an outdated version of the code base. Please ensure your branch has no *behind* commits relative to our master branch. If your branches are not up-to-date with upstream/master, opening a pull request will be denied by our staff. If changes happened on the master branch, you may use `Branch` / `Update from master` from Github Desktop menu to upgrade. Conflict resolution must be done on your currently working branch as well.
+
+### Open a pull request to master
+
+The procedure is also the same as above. Your repository must be up-to-date with master, or your pull request will be denied. The operation is easier because Github will help you more. Like with forked repository, commits may run tests and operations to ensure your code is correct before allowing merges. Merges are done by GSRI staff. You can commit again to your current working branch to add changes to the PR automatically.

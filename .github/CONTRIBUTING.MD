@@ -88,3 +88,40 @@ You should frequently ensure you're not working on an outdated version of the co
 ### Open a pull request to master
 
 The procedure is also the same as above. Your repository must be up-to-date with master, or your pull request will be denied. The operation is easier because Github will help you more. Like with forked repository, commits may run tests and operations to ensure your code is correct before allowing merges. Merges are done by GSRI staff. You can commit again to your current working branch to add changes to the PR automatically.
+
+## Specific information about Arma 3 mission contributions
+
+If you want to contribute to an arma 3 mission, you must also follow these guidelines :
+
+### Clone location
+
+You **MUST** download the repository in your `mpmissions` directory in order to be able to modify the mission using Eden editor. This directory is located in different paths depending on how you setup your game :
+
+* If you never used any command line options nor created any new profile, the directory is `%USERPROFILE%\Documents\Arma 3\mpmissions`
+
+* If you created a custom profile, the directory is `%USERPROFILE%\Documents\Arma 3 - Other Profiles\<profile_name>\mpmissions`
+
+* If you use the `-profiles` switch when playing the game, your directory is `<profiles_path>\Users\<profile_name>\mpmissions`
+
+### Do not use optional mods
+
+Ensure you're *not* using the optionals mods from our modpack, or any other mod than core pack. Editing the mission with other mods tend to create dependencies, which means other players will be kicked from the mission if they do not have them when playing.
+
+### No binary/rapified content
+
+**Ensure files are *not* binarized.**
+
+This concerns `mission.sqm` files, but also `config.cpp`. Git is good at versionning text files, not binaries. It also helps with changes history. Do not worry, we will setup a procedure to rapify it before packing the pbo.
+
+Also, do not add your own generated pbo/binary content, we will be build, rapify, binarize and pack automatically from sources.
+
+If your changes include large binary content (images, audio, video), contact staff so we can decide wether it shall be versionned or hosted on our private cloud for integration.
+
+## A few words of advice
+
+* Always `Fetch from github` and `Update from master` **before** you work
+* Always work on your own branches and then pull request to master
+* Commit small changes and add meaningfull descriptions
+* Commit changes frequently, this is a near equivalent of a `Ctrl + S`
+* Push at least daily, even if your code is broken (better broken than lost)
+* Borderless mode makes it easier to switch between game and desktop

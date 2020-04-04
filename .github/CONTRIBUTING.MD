@@ -63,7 +63,7 @@ GSRI project administrators will the review your code before merging to producti
 
 ## Regular contribution to the source code
 
-**Note:** This procedure is for GSRI members or well known regular contributors. Such people are allowed to contribute directly on the repository to prevent fork proliferation. If you are not allowed to contribute directly to the repository, see instructions in the *occasional contribution to the source code* section below.
+**Note:** This procedure is for GSRI members or well known regular contributors. Such people are allowed to contribute directly on the repository to prevent fork proliferation. If you are not allowed to contribute directly to the repository, see instructions in the *occasional contribution to the source code* section above.
 
 ### Obtain write access to the repository
 

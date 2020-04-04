@@ -55,7 +55,7 @@ Conflict resolutions should preferably be done on your currently working branch,
 
 Once you're satisfied with your work, and you want it to go to the official version, you can open a pull request to merge your changes *upstream*. 
 
-Open the pull request by selecting `Branch` / `Create pull request` in Github Dekstop. This will open your browser with a form to fill in. Ensure the source branch is the one you have been working on, and the destination is the master branch of our repository. Once completed, click `Open pull request`.
+Open the pull request by selecting `Branch` / `Create pull request` in Github Desktop. This will open your browser with a form to fill in. Ensure the source branch is the one you have been working on, and the destination is the master branch of our repository. Once completed, click `Open pull request`.
 
  **Note: All PR to other branches will be denied by our staff.**
 

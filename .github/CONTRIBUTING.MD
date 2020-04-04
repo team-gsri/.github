@@ -105,7 +105,7 @@ You **MUST** download the repository in your `mpmissions` directory in order to 
 
 ### Do not use optional mods
 
-Ensure you're *not* using the optionals mods from our modpack, or any other mod than core pack. Editing the mission with other mods tend to create dependencies, which means other players will be kicked from the mission if they do not have them when playing.
+Ensure you're *not* using the optionals mods from our modpack, or any other mod than the core pack. Editing the mission with other mods tend to create unwanted dependencies, which means other players will be kicked from the mission if they do not have them when playing.
 
 ### No binary/rapified content
 

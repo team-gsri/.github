@@ -29,7 +29,7 @@ That's all.
 
 You need to use a git client in order to download and synchronize your work with the repository. If you don't know how to use git, we suggest you use [Github Desktop](https://desktop.github.com/).
 
-Once git client installed, go to your forked project repository on github.com, and click the green `Clone or download` button on the right side of the webpage, then click `Open in Desktop` in the tooltip. Github Desktop will open and ask you where to download the source code. Select a directory of choice, and once selected, click `Clone` ; Github Desktop will download the sources on your computer.
+Once git client is installed, go to your forked project repository on github.com, and click the green `Clone or download` button on the right side of the webpage, then click `Open in Desktop` in the tooltip. Github Desktop will start and ask you where to download the source code. Select a directory of choice, and once selected, click `Clone` ; Github Desktop will download the sources on your computer.
 
 ### Modify the sources
 

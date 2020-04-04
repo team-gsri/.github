@@ -89,9 +89,9 @@ You should frequently ensure you're not working on an outdated version of the co
 
 The procedure is also the same as above. Your repository must be up-to-date with master, or your pull request will be denied. The operation is easier because Github will help you more. Like with forked repository, commits may run tests and operations to ensure your code is correct before allowing merges. Merges are done by GSRI staff. You can commit again to your current working branch to add changes to the PR automatically.
 
-## Specific information about Arma 3 mission contributions
+## Specific information about ArmA 3 mission contributions
 
-If you want to contribute to an arma 3 mission, you must also follow these guidelines :
+If you want to contribute to an ArmA 3 mission, you must also follow these guidelines :
 
 ### Clone location
 

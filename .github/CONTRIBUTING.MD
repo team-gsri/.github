@@ -47,7 +47,7 @@ Git has three different features regarding changes tracking :
 
 You should frequently ensure you're not working on an outdated version of the code base. Please ensure your branch has no *behind* commits relative to our master branch. If your branch is not up-to-date with upstream/master, opening a pull request will be denied by our staff.
 
-If you need to update, you should sync changes from our repository to yours. this operation is called *integration*. When integrating, conficts may happen, for instance if you modified an entity but it was deleted from upstream by another developper.
+If you need to update, you should sync changes from our repository to yours. this operation is called *integration*. When integrating, conflicts may happen, for instance if you modified an entity but it was deleted from upstream by another developer.
 
 Conflict resolutions should preferably be done on your currently working branch, as it makes it easier to test wether the integration process did not break anything. Once you're satisfied with the merge, check your version of the code still works OK before opening the pull request. This technique is called *ping-pong merging*.
 

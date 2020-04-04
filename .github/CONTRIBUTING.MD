@@ -119,7 +119,7 @@ If your changes include large binary content (images, audio, video), contact sta
 
 ## A few words of advice
 
-* Always `Fetch from github` and `Update from master` **before** you work
+* Always `Fetch from Github` and `Update from master` **before** you work
 * Always work on your own branches and then pull request to master
 * Commit small changes and add meaningfull descriptions
 * Commit changes frequently, this is a near equivalent of a `Ctrl + S`

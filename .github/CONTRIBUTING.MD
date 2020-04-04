@@ -67,7 +67,7 @@ GSRI project administrators will the review your code before merging to producti
 
 ### Obtain write access to the repository
 
-Your first step in order to contribute directly is to obtain write access to the repository. Ask on Discord and we will consider adding you write access.
+Your first step in order to contribute directly is to obtain write access to the repository. Ask on Discord and we will consider granting you write access.
 
 ### Clone the repository
 

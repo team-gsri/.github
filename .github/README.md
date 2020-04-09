@@ -1,26 +1,31 @@
-# GSRI Code of Conduct
+# GSRI Documentation Project
 
 ## What is this project
 
-This project is a special project. It only serves as a versioning project for [our Code Of Conduct](https://github.com/team-gsri/CodeOfConduct/blob/master/.github/CODE_OF_CONDUCT.md).
+This project serves as a document versioning management for general purpose documents that apply to multiple GSRI github repositories.
 
 ## Rules and standards
 
 The following documents provide additional information on rules and standards applying to this project :
 
-*   [GSRI code of conduct](./CODE_OF_CONDUCT.md)
-*   [Contributing to this project](./CONTRIBUTING.md)
+   * [GSRI Code of Conduct](../content/CODE_OF_CONDUCT.md)
+   * [Contributing to this repository](./CONTRIBUTING.md)
+
+## Content
+
+The [`content/` directory](../content/) contains applicable versions of the following documents:
+   * [GSRI Code of Conduct](../content/CODE_OF_CONDUCT.md)
+      * [French version](../content/CODE_OF_CONDUCT_FR.md)
+   * [GSRI Standard Contribution Guide](../content/CONTRIBUTING.md)
+      * [French version](../content/CONTRIBUTING.md)
 
 ## How to use
 
-The Code of Conduct on the master branch of this repository is the currently applicable Code of Conduct for GSRI GitHub projects. New versions of the code of conduct are applicable as soon as they are pushed on master. Changes to the Code of Conduct will be handled as through git branches, pull requests, history, etc ...
+The [`template/` directory](../template/) contains files that link to the applicable documents. You shall copy the template files to repositories that will use the standard documents. It will link to the currently applicable versions of the documents.
 
-This project is intented to be used when creating a new project :
+Some documents, such as the GSRI Code of Conduct is applicable to all repositories, but other can be opted out. For instance, this project contains a generic contribution guide, but some projects may use different contribution standards. In that case, do not copy the template file and provide your own version of the document in the repository. You can also adopt an hybryd approach by modifying the template document, linking to the standard document and including additional elements.
 
-*   Create a new `/.github/README.md` file, and add a link to the code of conduct on this project's master branch
-*   Create a new `/.github/CODE_OF_CONDUCT.md` file and add a link to the code of conduct on this project's master branch
-
-The created project will then always point to the currently agreed Code of Conduct. Whenever our code of conduct is modified, it will point to the applicable code of conduct. There is no need to update the other projects documentation.
+New versions of the standard documents are applicable as soon as they are pushed on `master` branch. Changes will be handled as through git branches, pull requests, history, etc ...
 
 ## How to get help
 

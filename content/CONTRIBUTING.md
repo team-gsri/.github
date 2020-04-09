@@ -1,4 +1,4 @@
-# Contributing to GSRI repositories
+# GSRI Standard Contribution Guide
 
 This documentation provides guidelines and standard procedures to contribute to our project. It is a generic documentation which may be overriden on a per-project basis. Please check the `.guithub\CONTRIBUTING.md` file of projects for additional instructions.
 

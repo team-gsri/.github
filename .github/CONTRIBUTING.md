@@ -1,3 +1,5 @@
-# Contributing to the GSRI Code of Conduct
+# Contributing to the GSRI Documentation Project
 
-FIXME : this document describes how to contribute to the COC
+We do not expect external contributions on this project, since it has a special purpose.
+
+If you have questions or suggestions, please contact us on [our discord server](https://discord.gg/bhMn4jd)

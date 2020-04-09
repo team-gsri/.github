@@ -8,6 +8,7 @@ This project serves as a document versioning management for general purpose docu
 
 The following documents provide additional information on rules and standards applying to this project :
 
+   * [MIT License](../LICENSE)
    * [GSRI Code of Conduct](../content/CODE_OF_CONDUCT.md)
    * [Contributing to this repository](./CONTRIBUTING.md)
 

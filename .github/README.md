@@ -2,7 +2,7 @@
 
 ## What is this project
 
-This project serves as a document versioning management for general purpose documents that apply to multiple GSRI github repositories.
+This project serves as a document versioning management for general purpose documents that apply to multiple GSRI Github repositories.
 
 ## Rules and standards
 

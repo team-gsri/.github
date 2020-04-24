@@ -1,4 +1,6 @@
-# Contributing to GSRI repositories
+# GSRI Standard Contribution Guide
+
+👉 [French version / version française](./CONTRIBUTING_FR.md)
 
 This documentation provides guidelines and standard procedures to contribute to our project. It is a generic documentation which may be overriden on a per-project basis. Please check the `.guithub\CONTRIBUTING.md` file of projects for additional instructions.
 
@@ -13,7 +15,16 @@ There are two ways of contributing to our projects :
 
 ## How to suggest ideas and feedback
 
-*We are in the process of writing this documentation*
+The best way to provide feedback or suggest ideas is by opening an issue on a github repository.
+In order to do so, go to the repository and click on the `issues` tab just below the repository name.
+Then click on the green `New issue` button, which will open an issue submit form.
+
+Before submitting the issues ensure you have filled in :
+* a meaningfull title
+* a description with details
+* add either a `bug` or `enhancement` label
+
+If you need help in opening an issue, feel free to come to our Discord.
 
 ## Occasional contribution to the source code
 

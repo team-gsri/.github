@@ -18,7 +18,7 @@ The root directory contains applicable versions of the following documents:
    * [GSRI Code of Conduct (en)](../CODE_OF_CONDUCT.md)
    * [GSRI Code of Conduct (fr)](../CODE_OF_CONDUCT_FR.md)
    * [GSRI Standard Contribution Guide (en)](../CONTRIBUTING.md)
-   * [GSRI Standard Contribution Guide (fr)](../CONTRIBUTING.md)
+   * [GSRI Standard Contribution Guide (fr)](../CONTRIBUTING_FR.md)
 
 ## How to use
 

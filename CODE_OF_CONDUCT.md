@@ -1,5 +1,7 @@
 # GSRI Code of Conduct
 
+👉 [French version / version française](./CODE_OF_CONDUCT_fr.md)
+
 ## Who we are and what we do
 
 The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 milsim unit. We are a non profit organization composed of benevolent members, which contributes to the development of Arma 3 oriented tools and mods.

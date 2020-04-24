@@ -1,6 +1,6 @@
 # GSRI Code of Conduct
 
-👉 [French version / version française](./CODE_OF_CONDUCT_fr.md)
+👉 [French version / version française](./CODE_OF_CONDUCT_FR.md)
 
 ## Who we are and what we do
 

@@ -26,7 +26,7 @@ Si vous vous êtes gênés par la possibilité que vous ou vos enfants puissiez 
 
 * **Soyez poli.** De simples expressions telles que *Bonjour*, *S'il-vous-plait*, *Merci*, ou encore *Au revoir* contribuent grandement à faire de cet espace un lieu accueillant et inclusif.
 
-* **Surveillez vos écrits.** Les correcteurs orthographiques sont de nos jours très communs. Commettre de trop nombreuses fautes vous fera apparaître comme nonchalant et irrespectueux. Utilisez la ponctuation pour faciliter la lecture de vos messages. Evitez l'emploi de textes en majuscules, qui seront interprétés comme si vous hurliez, et considérés grossiers. Espacez vos paragraphes mais n'abusez pas des sauts de ligne.
+* **Soyez attentif à votre rédaction.** Les correcteurs orthographiques sont de nos jours très communs. Commettre de trop nombreuses fautes vous fera apparaître comme nonchalant et irrespectueux. Utilisez la ponctuation pour faciliter la lecture de vos messages. Évitez l'emploi de textes en majuscules, qui seront interprétés comme si vous hurliez, et considérés comme grossier. Aérez vos contenus mais n'abusez pas des espacements.
 
 * **Ne faites pas de hors-sujet.** Chaque espace de notre communauté est prévu pour un unique sujet. Si vous souhaitez référencer plusieurs sujets, créez un nouveau fil de discussion, et ayez recours au [Github Autolink](https://help.github.com/en/articles/autolinked-references-and-urls) pour les référencer.
 

@@ -18,7 +18,7 @@ Dans le but de favoriser un environnement ouvert et accueillant, nous, contribut
 
 Cette communauté est rassemblée autour d'un jeu vidéo **catégorisé M par l'ESRB**, du fait de la présentation *de violence intense, de sang, de langage grossier*. C'est pourquoi notre communauté fait l'objet d'une modération appropriée pour des personnes agées de 17 ans et plus. Cela ne singifie pas qu'elle est inappropriée pour des personnes plus jeunes, mais du contenu susceptible de heurter leur sensibilité risque d'être partagé. Par ailleurs, le contenu inapproprié ne sera pas modéré aussi rapidement et efficacement que ce que l'on serait en droit d'attendre d'une équipe de modération travaillant pour une communauté entièrement publique.
 
-Si vous vous souciez du fait que vous ou vos enfants puissiez être exposé à un tel contenu, nous vous encourageons à vous éloignez de notre contenu, ou à faire le nécessaire pour éviter à vos enfants de consulter notre contenu.
+Si vous vous êtes gênés par la possibilité que vous ou vos enfants puissiez être exposé à un tel contenu, nous vous encourageons à vous en éloigner, ou à faire le nécessaire pour éviter que vos enfants y accèdent.
 
 ## Règles de bonne conduite
 

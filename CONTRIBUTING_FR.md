@@ -96,7 +96,7 @@ Les autres opérations sont similaires à celles décrites dans la procédure ci
 
 ### Garder votre branche à jour avec master
 
-Il est recommandé de vérifier régulièrement que vous ne travaillez pas sur une version obsolète des sources. Vérifiez que votre branche n'a aucun commit *behind* (en retard) relativement à notre branche `master`. Si votre branche n'est pas à jour avec `master`, l'ouverture d'une `pull request` sera refusée par notre équipe. Si des changements ont eu lieu sur la branche `master`, vous pouvez utiliser la fonction `Branch` / `Update from master` de Github Desktop afin de rattraper le retard. La résolution des conflits doit être faite sur votre actuelle branche de travail.
+Il est recommandé de vérifier régulièrement que vous ne travaillez pas sur une version obsolète des sources. Vérifiez que votre branche n'a aucun commit *behind* (en retard) relativement à notre branche `master`. Si votre branche n'est pas à jour avec `master`, l'ouverture d'une `pull request` sera refusée par notre équipe. Si des changements ont eu lieu sur la branche `master`, vous pouvez utiliser la fonction `Branch` / `Update from master` de Github Desktop afin de rattraper le retard. La résolution des conflits doit être faite sur votre branche de travail.
 
 ### Ouvrir une pull request vers master
 

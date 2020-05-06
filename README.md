@@ -22,8 +22,8 @@ The root directory contains applicable versions of the following documents:
 
 ## How to use
 
-This directory is used by github as the default community source. Any public project without community files will default to this repository content. If the content of these files does not apply to a specific repository, just add a customized version of the file in the repository `.github` directory, and the file will override the default one.
+This directory is used by Github as the default community source. Any public project without community files will default to this repository content. If the content of these files does not apply to a specific repository, just add a customized version of the file in the repository `.github` directory, and the file will override the default one.
 
 ## How to get help
 
-You can ask for support on [our discord server](https://discord.gg/bhMn4jd)
+You can ask for support on [our Discord server](https://discord.gg/bhMn4jd)

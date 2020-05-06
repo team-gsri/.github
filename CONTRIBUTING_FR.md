@@ -88,7 +88,7 @@ Si vous êtes un contributeur régulier, vous pouvez contribuer directement au d
 
 ### Créer une nouvelle branche
 
-**Note : cette étape est obligatoire.** Ne pas s'y circonvenir vous permettra certes de créer des commits sur master **localement**, mais toute tentative de `push` vers Github sera automatiquement refusée.
+**Note : cette étape est obligatoire.** Y circonvenir vous permettra de créer des commits sur master **localement**, mais toute tentative de `push` vers Github sera automatiquement refusée.
 
 Afin de créer une branche, sélectionnez `Branch` / `New branch ...` dans le menu. Github Desktop demandera un nom de branche. Entrez le nom souhaité : pseudo, fonctionnalité... Dans le doute, demandez-nous si le nom choisi est pertinent. Assurez-vous que la branche source est `master`. Une fois créée, publiez la branche sur Github en cliquant sur le bouton dans la barre en haut de Github Desktop.
 

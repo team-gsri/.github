@@ -100,7 +100,7 @@ Il est recommandé de vérifier régulièrement que vous ne travaillez pas sur u
 
 ### Ouvrir une pull request vers master
 
-Cette procédure est également la même que précédemment. Votre dépôt doit être à jour avec `master`, sans quoi votre `pull request` sera refusée. Des tests et autres opérations automatisées pourront également être menées pour s'assurer de la robustesse de votre production. Les fusions sont ensuites faites par le personnel du GSRI. Vous pouvez ajouter des commits à votre branche de travail : ils seront automatiquement ajoutés à la PR en cours.
+Cette procédure est également la même que pour les contributeurs occasionnels. Votre dépôt doit être à jour avec `master`, sans quoi votre `pull request` sera refusée. Des tests et autres opérations automatisées pourront également être menées pour s'assurer de la robustesse de votre production. Les fusions sont ensuite faites par l'équipe de maintenance du GSRI. Vous pouvez ajouter des commit à votre branche de travail : ils seront automatiquement ajoutés à la PR en cours.
 
 ## Information spécifique à propos des contributions aux missions ArmA 3
 

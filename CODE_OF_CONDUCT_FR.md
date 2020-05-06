@@ -24,7 +24,7 @@ Si vous vous êtes gênés par la possibilité que vous ou vos enfants puissiez 
 
 ### Comportement respectueux
 
-* **Soyez poli.** De simples expressions telles que *Bonjour*, *S'il-vous-plait*, *Merci*, ou encore *Au revoir* contribuent grandement à faire de cet espace un lieu accueillant et inclusif.
+* **Soyez poli.** De simples expressions telles que *Hello*, *Please*, *Thank you*, ou encore *Good bye* contribuent grandement à faire de cet espace un lieu accueillant et inclusif.
 
 * **Soyez attentif à votre rédaction.** Les correcteurs orthographiques sont de nos jours très communs. Commettre de trop nombreuses fautes vous fera apparaître comme nonchalant et irrespectueux. Utilisez la ponctuation pour faciliter la lecture de vos messages. Évitez l'emploi de textes en majuscules, qui seront interprétés comme si vous hurliez, et considérés comme grossier. Aérez vos contenus mais n'abusez pas des espacements.
 

@@ -12,7 +12,7 @@ Nous jouons des missions, privées comme publiques, orientées forces spéciales
 
 ## Notre engagement
 
-Dans le but de favoriser un environnement ouvert et accueillant, nous, contributeurs, nous engageons à faire de notre participation dans notre projet et notre communauté une expérience libre de tout harcelement pour tout invididu.
+Dans le but de favoriser un environnement ouvert et accueillant, nous, contributeurs, nous engageons à faire en sorte que la participation de chacun dans nos projets et notre communauté ne soit pas source de harcèlement.
 
 ## Note importante sur le contenu violent
 

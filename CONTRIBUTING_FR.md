@@ -128,7 +128,7 @@ Cela concerne principalement les fichiers de type `mission.sqm`, mais également
 
 Par ailleurs, n'ajoutez pas de contenu binarisé ou archivé sous forme de PBO par vos propres soins. Nos outils se chargeront d'assembler, de binariser et d'archiver correctement tout le contenu depuis les sources.
 
-Si vos modifications incluent de gros fichiers binaires (images, audio, video), merci de nous contacter afin de déterminer s'il doit être versionné dans Github ou bien être hébergée dans notre cloud privé pour intégration.
+Si vos modifications incluent de gros fichiers binaires (images, audio, video), merci de nous contacter afin de déterminer s'ils doivent être versionnés dans Github ou bien être hébergée dans notre cloud privé pour intégration.
 
 ## Quelques conseils
 

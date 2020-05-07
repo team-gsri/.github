@@ -78,7 +78,7 @@ Les administrateurs du projet effectueront une revue de votre code avant de fusi
 
 **Note :** cette procédure s'adresse aux membres du GSRI ou aux contributeurs réguliers identifiés. Ils·elles sont autorisés à contribuer directement dans notre dépôt afin d'éviter la prolifération des forks. Si vous n'êtes pas autorisés à contribuer directement au dépôt, référez-vous aux instructions de la section *Contribution ponctuelle au code source* plus haut dans ce document.
 
-### Récupérer le droit d'écriture sur le dépôt
+### Obtenir le droit d'écriture sur le dépôt
 
 Votre première étape pour les contributions directes est d'obtenir les droits d'accès sur notre dépôt. Prenez contact avec nous sur Discord et nous étudierons votre demande.
 

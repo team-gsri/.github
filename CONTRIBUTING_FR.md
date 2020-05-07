@@ -62,7 +62,7 @@ Assurez-vous fréquemment que vous ne travaillez pas sur une version obsolète d
 
 Si vous avez besoin de mettre à jour, vous devriez synchroniser les changements de notre dépôt vers le votre. Cette opération se nomme *intégration*. Durant l'intégration, des conflits peuvent apparaître, par exemple si vous avez modifié une entité qui a été par ailleurs supprimée de notre dépôt par un autre développeur.
 
-La résolution des conflits doit être effectuée sur votre branche de travail, car cela facilite les tests visant à s'assurer que le processus d'intégration n'a pas endommagé vos fonctionnalités. Une fois satisfait de la fusion, vérifiez que votre version du code source fonctionne toujours avant d'ouvrir une `pull request`. Cette technique est nommée *ping-pong merging*.
+La résolution des conflits doit être effectuée sur votre branche de travail, car cela facilite les tests visant à s'assurer que le processus d'intégration n'a rien cassé. Une fois satisfait de la fusion, vérifiez que votre version du code source fonctionne toujours avant d'ouvrir une `pull request`. Cette technique est nommée *ping-pong merging*.
 
 ### Ouvrir une pull request vers upstream
 

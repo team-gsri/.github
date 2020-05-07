@@ -57,7 +57,7 @@ Ce code de bonne conduite s'applique à tous les projets hébergés sur Github p
 
 ## Application
 
-La violation du présent code de bonne conduite donnera lieu à une réaction jugée appropriée par l'équipe de modération, et notament :
+La violation du présent code de bonne conduite donnera lieu à une réaction jugée appropriée par l'équipe de modération, et notamment :
 
 * Rappel à l'ordre
 * Suppression de contenu

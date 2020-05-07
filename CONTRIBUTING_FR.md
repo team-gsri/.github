@@ -24,7 +24,7 @@ Cliquez ensuite sur le bouton vert indiquant `New issue`, qui vous donnera accè
 Avant d'envoyer votre `issue`, vérifiez que vous avez indiqué les éléments suivants :
 * un titre éloquent
 * une description détaillée
-* un label `bug` ou encore `enhancement`
+* un label `bug` (incident) ou `enhancement` (amélioration)
 
 Si vous avez besoin d'aide dans ce processus, n'hésitez pas à venir sur notre serveur Discord.
 

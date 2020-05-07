@@ -49,7 +49,7 @@ Si vous vous êtes gênés par la possibilité que vous ou vos enfants puissiez 
 
 * **Coordonnez-vous avec la communauté.** Cela permet d'éviter les gaspillages d'énergie sur un sujet déjà en cours de traitement, ainsi que de prioriser les chantiers les plus critiques. Le meilleur espace pour s'organiser est le [serveur Discord officiel du GSRI](https://discord.gg/bhMn4jd).
 
-* **Assurez-vous toujours de la compatibilité des licences.** Nos projets sont protégés par différentes licences, en fonction de la nature et de l'objectif du produit. Assurez-vous d'avoir pris connaissance de la licence utilisée avant de contribuer. Si vous souhaitez inclure du contenu tier dans vos contributions, vérifiez que la licence du projet est compatible avec votre contenu. Dans le doute, n'hésitez pas à solliciter un avis.
+* **Assurez-vous toujours de la compatibilité des licences.** Nos projets sont protégés par différentes licences, en fonction de la nature et de l'objectif du contenu. Assurez-vous d'avoir pris connaissance et d'avoir accepté les termes de la licence utilisée avant de contribuer. Si vous souhaitez inclure du contenu tiers dans vos contributions, vérifiez que la licence du projet est compatible avec celle qui le protège. Dans le doute, n'hésitez pas à solliciter un avis.
 
 ## Portée
 

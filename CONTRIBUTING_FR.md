@@ -46,7 +46,7 @@ Une fois votre client git installé, rendez-vous sur la page de votre `fork` sur
 
 ### Modifier les sources
 
-Vous pouvez alors travailler sur les sources à l'aide de votre éditeur favoris. Si vous n'en avez pas encore, nous vous conseillons [Microsoft Visual Studio Code](https://code.visualstudio.com/), qui fonctionne bien avec Github Dekstop. Si vous modifiez une mission, merci de suivre les lignes directrices *Comment contribuer aux missions Arma 3*.
+Vous pouvez alors travailler sur les sources à l'aide de votre éditeur favori. Si vous n'en avez pas encore, nous vous conseillons [Microsoft Visual Studio Code](https://code.visualstudio.com/), qui fonctionne bien avec Github Dekstop. Si vous modifiez une mission, merci de suivre les indications fournis dans le chapitre *Comment contribuer aux missions Arma 3*.
 
 Git dispose de trois différentes fonctions de suivi des changements :
 

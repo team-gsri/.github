@@ -30,7 +30,7 @@ Si vous avez besoin d'aide dans ce processus, n'hésitez pas à venir sur notre 
 
 ## Contribution ponctuelle au code source
 
-**Note :** *cette procédure s'adresse aux contributeurs ponctuels hors-GSRI. Vous n'êtes pas autorisé à écrire directement dans le dépôt, mais vous pouvez soumettre une `pull request` depuis un `fork` de notre dépôt.*
+**Note :** *cette procédure s'adresse aux contributeurs ponctuels hors-GSRI. En tant que tel, vous n'êtes pas autorisé à écrire directement dans le dépôt, mais vous pouvez soumettre une `pull request` depuis un `fork` de notre dépôt.*
 
 ### Fork le dépôt
 

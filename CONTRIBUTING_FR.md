@@ -52,7 +52,7 @@ Git dispose de trois différentes fonctions de suivi des changements :
 
 * `git stage` signifie que vous considérez la version actuelle d'un fichier *prêt pour le commit*. C'est une façon efficace d'ajouter ou retirer des changements au commit en cours.
 
-* `git commit` signifie que vos modifications en mode `stage` sont stockées **localement**. Chaque commit est associé à votre identité et vous pouvez ajouter une petite description résumant ce que vous avez modifié et pourquoi. Si vous n'avez rien mis en `stage`, git placera en mode `stage` tous les changements et créera le commit en fonction.
+* `git commit` signifie que vos modifications en mode `stage` sont stockées **localement**. Chaque commit est associé à votre identité et vous pouvez ajouter une petite description résumant ce que vous avez modifié et pourquoi. Si vous n'avez rien mis en `stage`, git placera en mode `stage` tous les changements détectés et créera le commit en les incluant tous.
 
 * `git push` permet d'envoyer vos *commits* vers Github. Toutes les modifications restent locales jusqu'à l'utilisation de la commande `push`. D'autres utilisateurs peuvent alors accéder à vos modifications depuis leur dépôt. Vous pouvez également récupérer le code `pushed` par d'autres personnes sur Github en utilisant la commande `fetch`.
 

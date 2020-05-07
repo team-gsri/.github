@@ -22,7 +22,7 @@ Pour cela, rendez-vous sur le dépôt en question, et cliquez sur l'onglet `issu
 Cliquez ensuite sur le bouton vert indiquant `New issue`, qui vous donnera accès au formulaire de création.
 
 Avant d'envoyer votre `issue`, vérifiez que vous avez indiqué les éléments suivants :
-* un titre significatif
+* un titre éloquent
 * une description détaillée
 * un label `bug` ou encore `enhancement`
 

@@ -43,7 +43,7 @@ Si vous vous êtes gênés par la possibilité que vous ou vos enfants puissiez 
   * :-1: `:-1:` signifie **non / en désaccord**
   * :hand: `:hand:` signifie **je suis volontaire**
   
-* **Respectez le style de programmation.** Les directives officielles comme informelles permettent de préserver la lisibilité et facilitent la maintenance.
+* **Respectez le style de programmation.** Les pratiques officielles comme informelles permettent de préserver la lisibilité et facilitent la maintenance.
 
 * **Commentez votre code.** Soyez toutefois raisonnable sur la quantité de commentaires, souvenez-vous que le code concerne les *comment ?* tandis que les commentaires répondent aux *pourquoi ?*. Si votre code ne contient aucun commentaire, ou à l'inverse en contient beaucoup, vous faites probablement quelque chose de travers.
 

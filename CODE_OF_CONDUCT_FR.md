@@ -30,7 +30,7 @@ Si vous vous êtes gênés par la possibilité que vous ou vos enfants puissiez 
 
 * **Ne faites pas de hors-sujet.** Chaque espace de notre communauté est prévu pour un unique sujet. Si vous souhaitez référencer plusieurs sujets, créez un nouveau fil de discussion, et ayez recours au [Github Autolink](https://help.github.com/en/articles/autolinked-references-and-urls) pour les référencer.
 
-* **Terminez vos conversations.** En débuter une et ne plus répondre est considéré comme grossier, aussi pensez à le signaler lorsque vous n'avez plus l'intention de suivre l'évolution d'une discussion. Cela aidera l'équipe de modération à catégoriser les conversations et les lecteurs à savoir si un auteur attend une réponse ou non.
+* **Terminez vos conversations.** En débuter une et ne plus répondre est considéré comme grossier, aussi pensez à signaler lorsque vous n'avez plus l'intention de suivre l'évolution d'une discussion. Cela aidera l'équipe de modération à catégoriser les conversations, et les lecteurs à savoir si les conversations peuvent être poursuivies ou non.
 
 * **Abordez les conflits avec respect.** Le conflit est un phénomène social naturel, qui peut permettre le progrès s'il est traité correctement. Evitez de résoudre des conflits personnels en public. Astreignez-vous à n'argumenter que sur le fond du sujet et n'employez pas d'argument _ad hominem_. Les messages personnels rendus publics dans le but de discréditer une autre personne seront supprimés sans avertissement. Si une personne vous atteint en privé, vous devez [la bloquer](https://help.github.com/en/articles/blocking-a-user-from-your-personal-account). Notre équipe d'administration est à votre disposition si vous souhaitez une assistance afin de vous protéger d'autrui.
 

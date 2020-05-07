@@ -4,7 +4,7 @@
 
 ***Note :** ce document est une traduction du [GSRI Standard Contribution Guide](./CONTRIBUTING.md). En cas d'incohérence entre les deux documents, c'est la version anglophone qui s'applique. Cette version est fournie pour faciliter la compréhension mais n'a pas la valeur probante du document anglophone.*
 
-Cette documentation offre des lignes directrices et des procédures standards pour contribuer à nos projets. Il s'agit d'une documentation générique susceptible d'être remplacée au niveau de chaque projet. Merci de vérifier le fichier `.guithub\CONTRIBUTING.md` du projet concerné pour davantage d'instructions.
+Cette documentation offre des lignes directrices et des procédures standard pour contribuer à nos projets. Il s'agit d'une documentation générique susceptible d'être remplacée au niveau de chaque projet. Merci de vérifier le fichier `.github\CONTRIBUTING.md` du projet concerné pour davantage d'instructions.
 
 ## Possibilités de contribution aux projets GSRI
 

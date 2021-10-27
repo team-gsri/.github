@@ -1,4 +1,8 @@
-# Security Policy
+# GSRI Security Policy
+
+👉 [French version / version française](./SECURITY_FR.md)
+
+This documentation provides guidelines and standard procedures regarding maintaining security with our software.
 
 ## Supported Versions
 

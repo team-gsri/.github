@@ -1,0 +1,33 @@
+# Groupe Spécial de Reconnaissance et d'Intervention
+
+Welcome on the GSRI Github home page !
+
+The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 milsim unit. We are a non profit organization composed of benevolent members, which contributes to the development of Arma 3 oriented tools and mods. We play Arma 3 missions, both privates and publics, specialized in special forces oriented gameplay, with a high standard of discipline and realism. More information is available on *who we are* and *what we do* on [our official website](https://www.gsri.team) and [our discord server](https://discord.gg/bhMn4jd).
+
+*Remark : both links are only available in french.*
+
+## Content
+
+| Project | Type | Description |
+| --- | --- | --- |
+| [GSRI Skydiving](https://github.com/team-gsri/GSRI-Skydiving) | Mod | Improves newtonian-like freefall effect when jumping out of planes |
+| [GSRI Zeus Manager](https://github.com/team-gsri/GSRI-ZeusManager) | Mod | Improves how we manage zeus permissions on our servers |
+| [GSRI Orion](https://github.com/team-gsri/Orion) | Mission | A typical SF / Commando mission that spawns random objectives |
+| [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | Mission| A basic training mission with lots of training assets |
+
+## Rules and standards
+
+The following documents provide additional informations on rules and standards applying to this organization :
+* [GSRI Code of conduct](https://github.com/team-gsri/.github/blob/master/CODE_OF_CONDUCT.md)
+* [GSRI Security policy](https://github.com/team-gsri/.github/blob/master/SECURITY.md)
+* [GSRI Support policy](https://github.com/team-gsri/.github/blob/master/SUPPORT.md)
+* [GSRI Contribution guide](https://github.com/team-gsri/.github/blob/master/CONTRIBUTING.md)
+* [GSRI Documentation guide](https://github.com/team-gsri/.github/blob/master/DOCUMENTING.md)
+* [BI Tools EULA](https://www.bohemia.net/community/licenses/bohemia-interactives-tools-end-user-license)
+* [BI Arma 3 EULA](https://www.bohemia.net/community/licenses/arma3-end-user-license)
+
+## Disclaimer
+
+This application or website is not affiliated or authorized by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all associated logos and designs are trademarks or registered trademarks of Bohemia Interactive a.s.
+
+The GSRI logo is a trademark of GSRI.

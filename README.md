@@ -1,29 +1,31 @@
 # GSRI Documentation Project
 
-## What is this project
-
 This project serves as a document versioning management for general purpose documents that apply to multiple GSRI Github repositories.
-
-## Rules and standards
-
-The following documents provide additional information on rules and standards applying to this project :
-
-   * [MIT License](./LICENSE)
-   * [GSRI Code of Conduct](./CODE_OF_CONDUCT.md)
-   * [Contributing to this repository](./CONTRIBUTING.md)
 
 ## Content
 
 The root directory contains applicable versions of the following documents:
-   * [GSRI Code of Conduct (en)](./CODE_OF_CONDUCT.md)
-   * [GSRI Code of Conduct (fr)](./CODE_OF_CONDUCT_FR.md)
-   * [GSRI Standard Contribution Guide (en)](./CONTRIBUTING.md)
-   * [GSRI Standard Contribution Guide (fr)](./CONTRIBUTING_FR.md)
+| Document | English | French |
+| --- | --- | --- |
+| GSRI Code of Conduct | [read](./CODE_OF_CONDUCT.md) | [lire](./CODE_OF_CONDUCT_FR.md)
+| GSRI Standard Contribution Guide | [read](./CONTRIBUTING.md) | [lire](./CONTRIBUTING_FR.md)
+| GSRI Documentation Guide | [read](./DOCUMENTING.md) | [lire](./DOCUMENTING_FR.md)
+| GSRI GDPR Policy | [read](./GDPR.md) | [lire](./GDPR_FR.md)
+| GSRI Security Policy | [read](./SECURITY.md) | [lire](./SECURITY_FR.md)
+| GSRI Support Policy | [read](./SUPPORT.md) | [lire](./SUPPORT_FR.md)
 
-## How to use
+## Rules and standards
 
-This directory is used by Github as the default community source. Any public project without community files will default to this repository content. If the content of these files does not apply to a specific repository, just add a customized version of the file in the repository `.github` directory, and the file will override the default one.
+The following documents provide additional informations on rules and standards applying to this organization :
+* [MIT License](./LICENSE)
+* [GSRI Code of conduct](https://github.com/team-gsri/.github/blob/master/CODE_OF_CONDUCT.md)
+* [GSRI Security policy](https://github.com/team-gsri/.github/blob/master/SECURITY.md)
+* [GSRI Support policy](https://github.com/team-gsri/.github/blob/master/SUPPORT.md)
+* [GSRI Contribution guide](https://github.com/team-gsri/.github/blob/master/CONTRIBUTING.md)
+* [GSRI Documentation guide](https://github.com/team-gsri/.github/blob/master/DOCUMENTING.md)
 
-## How to get help
+## Disclaimer
 
-You can ask for support on [our Discord server](https://discord.gg/bhMn4jd)
+This application or website is not affiliated or authorized by Bohemia Interactive a.s. Bohemia Interactive, ARMA, DAYZ and all associated logos and designs are trademarks or registered trademarks of Bohemia Interactive a.s.
+
+The GSRI logo is a trademark of GSRI.

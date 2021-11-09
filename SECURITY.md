@@ -2,11 +2,11 @@
 
 ## Supported Versions
 
-By default, only the latest version builded from branch `master` is supported with security updates.
+By default, only the latest version builded from branch `master` (or `main`) is supported with security updates.
 
 ## Reporting a Vulnerability
 
-A vulnerability can be reported as an issue giving instructions on how to reproduce.
+A vulnerability can be reported as a project issue, with instructions on how to reproduce.
 
 ## Bug bounties
 

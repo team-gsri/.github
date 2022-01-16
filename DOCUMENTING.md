@@ -6,7 +6,7 @@ This documentation provides guidelines on how to document projects with GSRI sta
 
 👷 ***We are in the process of writing this documentation***
 
-## How and why document
+## How to and why document
 
 The first entrypoint to project documentation is the `README` file. This file is displayed on the homepage of any project. It gives information to users as to how the software is useful to them, links to other documentation, and explains how to interact with the project in general. This file has a standard structure for consistency. Although you could store this file in the repository root, it is better to move this file with them in the `.github` directory with other mandatory documentation.
 
@@ -22,7 +22,7 @@ Readme files are structured in 3 parts :
 * Disclaimer
 
 ### Description
-This section contains a small paragraph describing what the project about.
+This section contains a small paragraph describing what the project is about.
 
 ### Rules and standards
 This section contains links to documents in 3 subsections :

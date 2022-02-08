@@ -14,7 +14,7 @@ The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 mils
 | [GSRI Zeus Manager](https://github.com/team-gsri/GSRI-ZeusManager) | Mod | Improves how we manage zeus permissions on our servers |
 | [GSRI Orion](https://github.com/team-gsri/Orion) | Mission | A typical SF / Commando mission that spawns random objectives |
 | [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | Mission | A basic training mission with lots of training assets |
-| [GSRI Villiers](https://github.com/team-gsri/Villiers) | Mission | An evolutive mission used for GCAP public mechanized infantry server |
+| [GSRI Scorpion](https://github.com/team-gsri/Scorpion) | Mission | An evolutive mission used for GCAP public mechanized infantry server |
 
 ## Rules and standards
 

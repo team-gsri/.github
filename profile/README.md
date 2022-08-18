@@ -6,15 +6,22 @@ The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 mils
 
 *Remark : both links are only available in french.*
 
-## Content
+## Mods
 
-| Project | Type | Description |
-| --- | --- | --- |
-| [GSRI Skydiving](https://github.com/team-gsri/GSRI-Skydiving) | Mod | Improves newtonian-like freefall effect when jumping out of planes |
-| [GSRI Zeus Manager](https://github.com/team-gsri/GSRI-ZeusManager) | Mod | Improves how we manage zeus permissions on our servers |
-| [GSRI Orion](https://github.com/team-gsri/Orion) | Mission | A typical SF / Commando mission that spawns random objectives |
-| [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | Mission | A basic training mission with lots of training assets |
-| [GSRI Scorpion](https://github.com/team-gsri/Scorpion) | Mission | An evolutive mission used for GCAP public mechanized infantry server |
+| Project | Description |
+| --- | --- |
+| [GSRI Gear](https://github.com/team-gsri/GSRI-Gear) | Custom equipements for our unit |
+| [GSRI Opex](https://github.com/team-gsri/GSRI-Opex) | Mission framework that adds all-in-one features with a frigate spawn |
+| [GSRI Skydiving](https://github.com/team-gsri/GSRI-Skydiving) | Improves newtonian-like freefall effect when jumping out of planes |
+| [GSRI Zeus Manager](https://github.com/team-gsri/GSRI-ZeusManager) | Improves how we manage zeus permissions on our servers |
+
+## Missions
+
+| Project | Description |
+| --- | --- |
+| [GSRI Orion](https://github.com/team-gsri/Orion) | A typical SF / Commando mission that spawns random objectives |
+| [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | A basic training mission with lots of training assets |
+| [GSRI Scorpion](https://github.com/team-gsri/Scorpion) | An evolutive mission used for GCAP public mechanized infantry server |
 
 ## Rules and standards
 

@@ -13,6 +13,7 @@ The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 mils
 | [GSRI Gear](https://github.com/team-gsri/GSRI-Gear) | Custom equipements for our unit |
 | [GSRI Opex](https://github.com/team-gsri/GSRI-Opex) | Mission framework that adds all-in-one features with a frigate spawn |
 | [GSRI Skydiving](https://github.com/team-gsri/GSRI-Skydiving) | Improves newtonian-like freefall effect when jumping out of planes |
+| [GSRI VIP](https://github.com/team-gsri/GSRI-VIP) | Adds useful features when handling hostages or other important personnel |
 | [GSRI Zeus Manager](https://github.com/team-gsri/GSRI-ZeusManager) | Improves how we manage zeus permissions on our servers |
 
 ## Missions

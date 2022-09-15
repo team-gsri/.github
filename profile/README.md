@@ -24,6 +24,14 @@ The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 mils
 | [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | A basic training mission with lots of training assets |
 | [GSRI Scorpion](https://github.com/team-gsri/Scorpion) | An evolutive mission used for GCAP public mechanized infantry server |
 
+## Actions
+
+| Project | Description |
+| --- | --- |
+| [Build addon](https://github.com/team-gsri/actions-build-addon) | Makes a pbo addon using arma 3 tools |
+| [Build mission](https://github.com/team-gsri/actions-build-mission) | Make a pbo mission using arma 3 tools |
+| Publish mod | Publish an arma 3 mod to Steam Workshop |
+
 ## Rules and standards
 
 The following documents provide information on rules and standards applying to this organization :

@@ -23,14 +23,21 @@ The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 mils
 | [GSRI Orion](https://github.com/team-gsri/Orion) | A typical SF / Commando mission that spawns random objectives |
 | [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | A basic training mission with lots of training assets |
 | [GSRI Scorpion](https://github.com/team-gsri/Scorpion) | An evolutive mission used for GCAP public mechanized infantry server |
+| [GSRI Operations](https://github.com/team-gsri/Operations) | A series of scenarized operations based on GSRI OPEX |
 
 ## Actions
 
 | Project | Description |
 | --- | --- |
-| [Build addon](https://github.com/team-gsri/actions-build-addon) | Makes a pbo addon using arma 3 tools |
-| [Build mission](https://github.com/team-gsri/actions-build-mission) | Make a pbo mission using arma 3 tools |
-| Publish mod | Publish an arma 3 mod to Steam Workshop |
+| [Arma Tools](https://github.com/team-gsri/actions-arma-tools) | Multiple actions based on Arma 3 tools |
+
+## Server tools
+
+| Project | Description |
+| --- | --- |
+| [GSRI settings](https://github.com/team-gsri/arma3-settings) | The repository contains our servers' CBA settings |
+| [GSRI server manager](https://github.com/team-gsri/arma3-server-manager) | A series of PWSH scripts that manages Arma 3 server instances |
+| GSRI Sync | A tool used for mod synchronization |
 
 ## Rules and standards
 

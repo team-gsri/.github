@@ -10,20 +10,20 @@ The `Groupe Special de Reconnaissance et d'Intervention` is a french Arma 3 mils
 
 | Project | Description |
 | --- | --- |
-| [GSRI Gear](https://github.com/team-gsri/GSRI-Gear) | Custom equipements for our unit |
-| [GSRI Opex](https://github.com/team-gsri/GSRI-Opex) | Mission framework that adds all-in-one features with a frigate spawn |
-| [GSRI Skydiving](https://github.com/team-gsri/GSRI-Skydiving) | Improves newtonian-like freefall effect when jumping out of planes |
-| [GSRI VIP](https://github.com/team-gsri/GSRI-VIP) | Adds useful features when handling hostages or other important personnel |
-| [GSRI Zeus Manager](https://github.com/team-gsri/GSRI-ZeusManager) | Improves how we manage zeus permissions on our servers |
+| [GSRI Gear](https://github.com/team-gsri/mods-gear) | Custom equipements for our unit |
+| [GSRI Opex](https://github.com/team-gsri/mods-opex) | Mission framework that adds all-in-one features with a frigate spawn |
+| [GSRI Skydiving](https://github.com/team-gsri/mods-skydiving) | Improves newtonian-like freefall effect when jumping out of planes |
+| [GSRI VIP](https://github.com/team-gsri/mods-vip) | Adds useful features when handling hostages or other important personnel |
+| [GSRI Zeus Manager](https://github.com/team-gsri/mods-zeus-manager) | Improves how we manage zeus permissions on our servers |
 
 ## Missions
 
 | Project | Description |
 | --- | --- |
-| [GSRI Orion](https://github.com/team-gsri/Orion) | A typical SF / Commando mission that spawns random objectives |
-| [GSRI Entrainement](https://github.com/team-gsri/Entrainement) | A basic training mission with lots of training assets |
-| [GSRI Scorpion](https://github.com/team-gsri/Scorpion) | An evolutive mission used for GCAP public mechanized infantry server |
-| [GSRI Operations](https://github.com/team-gsri/Operations) | A series of scenarized operations based on GSRI OPEX |
+| [GSRI Orion](https://github.com/team-gsri/missions-orion) | A typical SF / Commando mission that spawns random objectives |
+| [GSRI Entrainement](https://github.com/team-gsri/missions-entrainement) | A basic training mission with lots of training assets |
+| [GSRI Scorpion](https://github.com/team-gsri/missions-scorpion) | An evolutive mission used for GCAP public mechanized infantry server |
+| [GSRI Operations](https://github.com/team-gsri/missions-operations) | A series of scenarized operations based on GSRI OPEX |
 
 ## Actions
 
